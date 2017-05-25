@@ -1,0 +1,12 @@
+body{
+	color: black;
+	background-image: url("./back-2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+#nameBlock{
+	font-size: xx-large;
+	text-align: center;
+}
